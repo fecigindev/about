@@ -1,0 +1,2 @@
+# about
+information impotent
